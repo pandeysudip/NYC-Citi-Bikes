@@ -51,7 +51,7 @@ function createMap(bikeStations) {
   var map = L.map("map-id", {
     center: [40.73, -74.0059],
     zoom: 12,
-    layers: [streetmap, watercolor, dark, googleStreets, googleSat, bikeStations]
+    layers: [streetmap, bikeStations]
   });
 
   // Create a layer control, and pass it baseMaps and overlayMaps. Add the layer control to the map.
