@@ -1,4 +1,4 @@
-# nybike-Citi Bike Maps
+# Citi Bike Maps
 A mini project on Leaflet  using citi Bike API  to get the status and location of every Citi Bike station in New York. The following steps are followed.
 
 Citi Bike station information endpoint is used to get information about the station names and locations.
